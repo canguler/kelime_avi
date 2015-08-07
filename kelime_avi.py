@@ -68,7 +68,7 @@ def bfs(letter_matrix, n):
 
 def new_game():
     import math
-    letters = input()
+    letters = input('Letters: ')
     n = int(math.sqrt(len(letters)))
     letter_matrix = []
     for i in range(n):
