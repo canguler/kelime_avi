@@ -3,10 +3,12 @@
 Run: `python3 kelime_avi.py`
 
 Assuming that you have these letters:
-  brab
-  oabk
-  urüi
-  dosk
+```
+B R A B
+O A B K
+U R Ü İ
+D O S K
+```
 
 Enter: `braboabkurüidosk`
 
